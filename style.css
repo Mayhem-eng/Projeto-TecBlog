@@ -1,0 +1,118 @@
+body{
+    background: #e6e6e6;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+   
+}
+
+#menu{
+    background-color: #F7b600;
+    height: 137px;
+    margin: -8px;
+
+}
+
+#texto-logo{
+    font-weight: bold;
+    font-size: 2.3em;
+    text-align: center;
+    
+}
+
+#texto-logo, #links-paginas{
+    padding: 20px;
+}
+
+#links-pagina{
+    font-size: 0.9em;
+    font-weight: bolder;
+    text-align: center;
+}
+
+a{
+    color: #e6e6e6;
+    text-decoration: none;
+    
+}
+
+a:link, a:visited{
+    color: #e6e6e6;
+    padding: 8px 7px;
+}
+
+a:hover{
+    color: #F7b600;
+    background: #e6e6e6;
+    padding: 7px;
+}
+
+h2{
+    color:#F7b600;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h3{
+    font-weight: bold;
+    background-color: #CCC;
+    padding: 6px;
+    
+}
+
+
+#conteudo-esquerdo{
+    margin-top: 15px;
+    margin-left: 190px;
+    float: left;
+}
+
+#corpo-principal{
+    margin-top: 30px;
+  
+}
+
+#conteudo-direito{
+    width: 230px;
+    float: right;
+    margin-right: 220px;
+}
+
+#link-leiaMais{
+    color:#F7b600;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 0.8em;
+    background: none;
+    display: block;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+}
+    
+.config-textos-lado-direito{
+    font-size: 0.8em;
+    font-weight: bold;
+    padding-top: 0;
+    padding-bottom: 0;
+
+}
+
+.descricao-img{
+    width:500px; 
+    font-size: 0.9em; 
+    font-weight: 600;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.rodape{
+    clear: both;
+    position: relative;
+    left: 190px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 0.8em;
+    background-color: #CCC;
+    padding: 12px;
+    width: 756px;
+}
